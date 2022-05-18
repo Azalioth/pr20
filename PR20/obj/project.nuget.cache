@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "aBDGpiEfc+8T0e8MfP3KnjP91zv2ZVdF+X5rBun22afVV08wDVr0rp+GCX4FlhbvxZ0XWguvSrIT8GB+WdOVKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\46tis\\Downloads\\PR20-master\\PR20-master\\PR20\\PR20\\PR20.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\46tis\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\46tis\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\46tis\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\46tis\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\46tis\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\46tis\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
